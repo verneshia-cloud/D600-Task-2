@@ -1,0 +1,13 @@
+Final formula:
+IsLuxury ~ price + crime_rate + property_tax_rate + previous_sale_price
+
+AIC: 4129.274   BIC: 4161.758 
+
+Pseudo-R2 (McFadden): 0.3934 
+
+                         Estimate   Std. Error    z value      Pr(>|z|)
+(Intercept)         -5.092496e+00 2.040687e-01 -24.954814 1.893299e-137
+price                1.564470e-05 6.302759e-07  24.821990 5.190617e-136
+crime_rate           3.651404e-03 2.156187e-03   1.693454  9.036901e-02
+property_tax_rate    1.457477e-01 7.854652e-02   1.855559  6.351638e-02
+previous_sale_price  9.061961e-07 3.814939e-07   2.375388  1.753049e-02
