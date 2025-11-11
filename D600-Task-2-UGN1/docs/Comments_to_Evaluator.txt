@@ -1,0 +1,13 @@
+COMMENTS TO EVALUATOR (paste into LMS):
+
+• Repository URL: <ADD YOUR PUBLIC GITHUB LINK HERE>
+• Contents: data splits, R scripts, optimization/evaluation outputs, and final DOCX.
+• Evidence map:
+  - C2 Descriptives: outputs/C2_descriptives.png
+  - C3 Visuals (univariate & bivariate vs IsLuxury): outputs/C3_univariate_*.png, outputs/C3_bivariate_vs_IsLuxury_*.png
+  - D2 Optimization (AIC/BIC, pseudo-R², coefficients/p-values): outputs/D2_model_summary.png (or .txt)
+  - D3 Training confusion/accuracy: outputs/D3_train_confusion.png
+  - D4 Test confusion/accuracy: outputs/D4_test_confusion.png
+  - E5 Assumption checks (VIF, Box-Tidwell, ROC threshold, residuals): outputs/E5_assumption_evidence_*.png
+• Panopto link: <ADD LINK HERE>
+• Branch history screenshot is in docs/repo_branch_history.png once commits are made.
